@@ -4,6 +4,8 @@ A front-end project built with Bootstrap/HTML/CSS.
 ### What the project looks like
 
 
+![la_1](https://user-images.githubusercontent.com/68482221/116642787-a0c07a00-a93d-11eb-9929-a451a06a4009.png)
 
-![Screenshot (83)](https://user-images.githubusercontent.com/68482221/115795134-579c8300-a39d-11eb-9093-e0f733a568fe.png)
+![la_2](https://user-images.githubusercontent.com/68482221/116642795-a5852e00-a93d-11eb-970e-8e7a847bb089.png)
+
 
