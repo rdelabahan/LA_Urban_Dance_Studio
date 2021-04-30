@@ -1,5 +1,5 @@
 # LA_Urban_Dance_Studio
-A front-end project built with Bootstrap.
+A front-end project built with Bootstrap/HTML/CSS.
 
 ### What the project looks like
 
